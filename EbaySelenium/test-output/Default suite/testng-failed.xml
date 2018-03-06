@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.EbayLogin">
+      <class name="testCases.TestAddToCart">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="init"/>
           <include name="loginEbay"/>
+          <include name="tearDown"/>
+          <include name="init"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.EbayLogin -->
+      </class> <!-- testCases.TestAddToCart -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

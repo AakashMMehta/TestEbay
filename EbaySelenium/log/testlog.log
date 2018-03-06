@@ -1,8 +1,8 @@
-2018-02-26 16:57:00,681 - EbayHomePage -INFO - Clicked on login link
-2018-02-26 16:57:01,135 - EbaySignINPage -INFO - Username entered
-2018-02-26 16:57:01,301 - EbaySignINPage -INFO - Password entered
-2018-02-26 16:57:05,107 - EbaySignINPage -INFO - Clicked on signin button
-2018-02-26 16:57:08,683 - EbayAddToCart -INFO - product name entered
-2018-02-26 16:57:11,393 - EbayAddToCart -INFO - product searched
-2018-02-26 16:57:14,872 - EbayAddToCart -INFO - clicked on the product
-2018-02-26 16:57:27,051 - EbayAddToCart -INFO - clicked on add to cart
+2018-03-06 12:13:57,717 - EbayHomePage -INFO - Clicked on login link
+2018-03-06 12:13:57,879 - EbaySignINPage -INFO - Username entered
+2018-03-06 12:13:58,004 - EbaySignINPage -INFO - Password entered
+2018-03-06 12:14:01,573 - EbaySignINPage -INFO - Clicked on signin button
+2018-03-06 12:14:03,320 - EbayAddToCart -INFO - product name entered
+2018-03-06 12:14:12,081 - EbayAddToCart -INFO - product searched
+2018-03-06 12:14:16,602 - EbayAddToCart -INFO - clicked on the product
+2018-03-06 12:14:24,258 - EbayAddToCart -INFO - clicked on add to cart

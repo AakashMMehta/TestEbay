@@ -22,8 +22,8 @@ public class TestBase
 	@BeforeSuite
 	public void setUp() throws IOException
 	{
-		PropertyReader r=new PropertyReader();
-		switch(r.readProperty("BrowserType"))
+		PropertyReader r=new PropertyReader();//Creating object of property reader
+		switch(r.readProperty("BrowserType"))//Using PropertyReader object for calling browser type
 		{
 		case "Chrome":
 			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"\\chromedriver.exe");
@@ -37,9 +37,9 @@ public class TestBase
 		}
 		
 		
-		driver.manage().window().maximize();
+		driver.manage().window().maximize();//Maximize the window
 		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
-		driver.get("https://www.ebay.com/");
+		driver.get("https://www.ebay.com/");//Navigating to Ebay
 	}		
 		
 	@AfterSuite

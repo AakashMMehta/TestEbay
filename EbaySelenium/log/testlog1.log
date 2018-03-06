@@ -1,8 +1,0 @@
-2018-02-26 16:57:00,681 [main] INFO EbayHomePage - Clicked on login link
-2018-02-26 16:57:01,135 [main] INFO EbaySignINPage - Username entered
-2018-02-26 16:57:01,301 [main] INFO EbaySignINPage - Password entered
-2018-02-26 16:57:05,107 [main] INFO EbaySignINPage - Clicked on signin button
-2018-02-26 16:57:08,683 [main] INFO EbayAddToCart - product name entered
-2018-02-26 16:57:11,393 [main] INFO EbayAddToCart - product searched
-2018-02-26 16:57:14,872 [main] INFO EbayAddToCart - clicked on the product
-2018-02-26 16:57:27,051 [main] INFO EbayAddToCart - clicked on add to cart

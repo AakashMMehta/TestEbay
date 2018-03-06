@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.RollingFileAppender;
 
 public class ClearLog {
-	
+	//If log file is already present, it will create new log file
 	public void rollLogFile(Logger logger) {
 		  while (logger != null && !logger.getAllAppenders().hasMoreElements()) {
 		    logger = (Logger)logger.getParent();
